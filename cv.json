@@ -1,275 +1,468 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Manuel Agustín Aquino",
+    "label": "Chapter Lead | Lider técnico - Javascript | React | Angular",
+    "image": "https://media.licdn.com/dms/image/C4E03AQE-3m_OZxYtyg/profile-displayphoto-shrink_800_800/0/1576423334432?e=1727308800&v=beta&t=0YVKYH8RCEwKRCtWAinDhCxDCbCgU9Rx_uROEqLgvDM",
+    "email": "manuel.aquino.utn@gmail.com",
+    "phone": "(0230)15-4589185",
+    "url": "https://www.linkedin.com/in/aquinomanuel/",
+    "summary": "Tengo mas de 10 años de experiencia en el desarrollo de aplicaciones web.\nMas de 3 años como Lider técnico especializado en tecnologías de frontend\nCuento con experiencia de desarrollo en todas las partes y etapas de los proyectos, puedo encargarme de la configuración de un proyecto de principio a fin, pensando tanto en la experiencia de desarrollo como de puenta a punto para producción.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Argentina",
+      "city": "Pilar, Bs. As."
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "aquinomanuel",
+        "url": "https://www.linkedin.com/in/aquinomanuel/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "manumental32",
+        "url": "https://github.com/manumental32"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Arsat",
+      "position": "Lider tecnico del desarrollo de aplicaciones web",
+      "startDate": "2020-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Líder técnico de front-end. Mi equipo está conformado por 4 desarrolladores front-end. Coordiné para incorporar los entregables del equipo externo (2 personas) de maquetado en tiempo y forma de acuerdo a los wireframes y/o diseños adaptables a distintos dispositivos (responsive).\nCalculo las estimaciones y la división de tareas para cada sprint durante la planning que es la primer ceremonia de la metodología Scrum, participó de las daylis de cada proyecto en desarrollo y coordino con los equipos de UI/UX, backend, devops el PO y la PM. \nRealizo revisión de código y sugiero mejoras de acuerdo a los principios SOLID y las buenas prácticas del lenguaje y los patrones del framework. \nHago el testing funcional y  presento las demos de los proyectos al final del sprint y/o colaboro para confeccionar las release notes.\nUso de métricas de core web vitals y lighthouse para mantener el rendimiento, performance, SEO, PWA y accesibilidad.\nConfiguración y utilización de sentry para el monitoreo de los sistemas y traking de errores.\n\n",
+      "url": "https://www.linkedin.com/company/arsat/",
+      "location": "Benavídez, Buenos Aires, Argentina"
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Trocafone Inc.",
+      "position": "Frontend Engineer",
+      "startDate": "2019-02-28",
+      "endDate": "2020-06-30",
+      "highlights": [],
+      "summary": "Como especialista frontend mi tarea diaria es interactuar tanto con mi equipo de desarrolladores fullstack como así también con un equipo de especialistas en Diseño UX/UI para el rediseño y mejora de un proyecto que estamos realizando con Angular7.\nUtilizamos Scrum como metodología ágil para comunicarnos y hacer un control y seguimiento de los proyectos.\nUna parte del tiempo me ocupo el mantenimiento del e-commerce brasileño.  https://www.trocafone.com\nSitio hecho en Laravel PHP, MySQL, Docker, Jenkins, GIT",
+      "url": "https://www.linkedin.com/company/trocafone/"
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A.",
+      "position": "Desarrollador Web Senior",
+      "startDate": "2015-02-28",
+      "endDate": "2019-01-31",
+      "highlights": [],
+      "summary": "Desarrollo de plataforma de VOD  Odeón en Angularjs, Bootstrap 3, corriendo con Grunt, confección de Unit Tests \n\nRebranding de Odeón, ahora se llama Cinear Play \n\n Desarrollo de la app de cine.ar para LG smart-tv\n\nDesarrollo del frontend y SEO de Tero Tero! Hecho con Angular2/4, angular-material, ngprime\nhttps://tero-tero.com.ar\n\nDesarrollo del frontend PWA del portal de empleados de Arsat: Hecho en Angular2/4, angular-material, ngprime.  Backend hecho en Python con arquitectura REST, documentado en Swagger y corriendo con Docker, uso de integración continua e issues en Gitlab. \nhttps://empleados.arsat.com.ar \n\nMantenimiento y actualización del MapaTDA hecho en PHP, PostgreSQL (GIS), Bootstrap Twitter Framework y Google maps\nhttp://mapatda.arsat.com.ar",
+      "url": "https://www.linkedin.com/company/arsat/",
+      "location": "Benavidez, Buenos Aires, Argentina"
+    },
+    {
+      "name": "Dytar Latam",
+      "position": "Programador PHP Fullstack Semi-Senior",
+      "startDate": "2012-08-31",
+      "endDate": "2015-01-31",
+      "highlights": [],
+      "summary": "Programación en PHP 5 principalmente procedural y orientado a objetos.\nImplementación de HTML y CSS, Javascript, Jquery, Ajax (mejora la interacción con el usuario).\nManejo de base de datos con MYSQL armado y confección de consultas.\nImplementación de patrones de diseño MVC (Modelo Vista Controlador)\nConfección de documentación de sistemas (UML, casos de uso, Diagrama de entidad-relación)",
+      "url": "https://www.linkedin.com/company/dytar-latam/",
+      "location": "Pilar, Buenos Aires"
+    },
+    {
+      "name": "Departamento de Sistemas de Información - UTN - FRD",
+      "position": "Becario Laboratorio de Sistemas",
+      "startDate": "2012-04-30",
+      "endDate": "2012-07-31",
+      "highlights": [],
+      "summary": "Beca obtenida gracias al buen promedio de notas.\nSoporte y mantenimiento de las computadoras del laboratorio de sistemas tanto de hardware como de software.\nMe dió la posibilidad de capacitarme en PHP",
+      "url": "https://www.linkedin.com/company/isi-utn-frd/",
+      "location": "Campana, Provincia de  Buenos Aires"
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional",
+      "area": "Ingeniería en Sistemas de Información",
+      "startDate": "2010-12-31",
+      "endDate": "2019-12-31",
+      "score": "",
+      "courses": [
+        " - Taller de C y C++",
+        " - Taller de Java"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnológica Nacional",
+      "area": "Técnicatura Superior en Procesos Industriales",
+      "startDate": "2007-12-31",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "M101P: MongoDB for Developers",
+      "issuer": "MongoDB, Inc.",
+      "startDate": "2015-07-31",
+      "url": "http://education.mongodb.com/downloads/certificates/38cd73bbc048471ab43ea2c8d96a6438/Certificate.pdf"
+    },
+    {
+      "name": "Taller de aplicaciones web \"Angularjs + Nodejs\"",
+      "issuer": "UTN FRD",
+      "startDate": "2015-10-31",
+      "url": "https://drive.google.com/file/d/0B4PHR2aHWZ9ITlFmYl9Rb2lUSVU/view?usp=sharing"
+    },
+    {
+      "name": "Curso aprenda a invertir en la bolsa ",
+      "issuer": "invertirOnline.com",
+      "startDate": "2016-06-30",
+      "url": "https://drive.google.com/file/d/0B4PHR2aHWZ9IQ0dNOHNTZmVzQ00/view?usp=sharing"
+    },
+    {
+      "name": "Ingles cuatrimestral Nivel 08 Consolidación | Centro Universitario de Idiomas (CUI)",
+      "issuer": "Centro Universitario de Idiomas (CUI)",
+      "startDate": "2022-07-31",
+      "url": "https://drive.google.com/file/d/1u89gnQ8IFaPa8PYddX4TGlX4qpxjLwtD/view?usp=sharing"
+    },
+    {
+      "name": "Ingles trimestral Nivel 09 Consolidación | Centro Universitario de Idiomas (CUI)",
+      "issuer": "Centro Universitario de Idiomas (CUI)",
+      "startDate": "2022-12-31",
+      "url": "https://drive.google.com/file/d/1zniWgU_FxmaCcwdxGFli3NM9Ln7ZD_aF/view?usp=drivesdk"
+    },
+    {
+      "name": "ACCESIBILIDAD WEB: TÉCNICAS Y HERRAMIENTAS PARA MEJORARLA (VIRTUAL),",
+      "issuer": "INAP Instituto Nacional de Administración Pública",
+      "startDate": "2020-09-30",
+      "url": "https://drive.google.com/file/d/10LQg4AQYeNtJBK7-dVuqHIOQ43q6ePoA/view?usp=sharing"
+    },
+    {
+      "name": "Ingles cuatrimestral Nivel 10 Consolidación | Centro Universitario de Idiomas (CUI)",
+      "issuer": "Centro Universitario de Idiomas (CUI)",
+      "startDate": "2023-06-30",
+      "url": "https://drive.google.com/file/d/1hVzoIKhK6K-IObw_5-EQWyMaVzAc7v3h/view?usp=drivesdk"
+    },
+    {
+      "name": "Ingles trimestral Nivel 11 Consolidación | Centro Universitario de Idiomas (CUI)",
+      "issuer": "Centro Universitario de Idiomas (CUI)",
+      "startDate": "2023-11-30",
+      "url": "https://drive.google.com/file/d/1o19vLfD53zK6AJiQ39B1bansFJV-O1PK/view?usp=drive_link"
+    }
+  ],
+  "publications": [],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "name": "Resolución de problemas",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "name": "Bases de datos",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "name": "Metodologías ágiles",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
+      "name": "Desarrollo front end",
+      "level": "",
+      "keywords": []
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ionic Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrapping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Haskell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "name": "Responsive Web Design",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Prolog",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimización del rendimiento",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Turbo Pascal",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Material-UI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular 4",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SEO",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Liderazgo de equipos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación de proyectos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP4/5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Smalltalk",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo de software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Access Database",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Facebook API",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PWA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "es",
+      "fluency": "Native Speaker"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Professional Working",
+      "language": "Ingles intermedio avanzado"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Portugués"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [],
+  "references": [
+    {
+      "name": "Maximiliano Zelarayán",
+      "reference": "Manuel se desempeña de forma excelente en el ámbito laboral. Posee mucha capacidad para trabajar en equipo, como así también se desenvuelve de forma notoria a la hora de ser autodidacta.\r\nConoce muy bien el manejo de tiempos en relación a prioridades y es capaz de lograr objetivos de corto, mediano y largo plazo. \r\nRecomiendo sin dudar su forma de trabajo, su proactividad y su compañerismo."
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
+      "name": "Empleados ARSAT",
+      "startDate": "2018-06-30",
+      "summary": "Portal que relaciona los empleados con la empresa. Desde allí pueden realizar trámites, consultar su recibo de sueldo, enterarse de novedades, leer la revista Planeta ARSAT, etc.",
+      "url": "https://empleados.arsat.com.ar",
+      "endDate": "2019-02-28"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+      "name": "CINE.AR PLAY  (EX ODEON)",
+      "startDate": "2015-11-30",
+      "summary": "Sistema de video a demanda para producciones nacionales argentinas (similar a Netflix) Lanzado con presentación presidencial, obtuvo 200000 suscripciones en la primer semana de lanzamiento y mantiene entre 9000 y 18000 usuarios concurrentes. Mi función consiste en el desarrollo de plataforma web en Angularjs, Bootstrap 3, corriendo con Grunt, confección de Unit Tests ",
+      "url": "https://play.cine.ar/",
+      "endDate": "2019-01-31"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "name": "Tero Tero!",
+      "isActive": false,
+      "startDate": "2017-12-31",
+      "summary": "Plataforma de aplicaciones para web y celulares que ayuda a los padres proteger a sus hijos de flagelos online como el cibergrooming.\nParticipé realizando el diseño de arquitectura de software de microservicios, liderando el grupo de developers y en la relación con el management.",
+      "url": "https://tero-tero.com.ar",
+      "endDate": "2018-05-31"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "name": "Javastock",
+      "startDate": "2013-04-30",
+      "summary": "Proyecto que engloba los conocimientos adquiridos en el taller de java cursado en la UTN FRD, tanto de Java como de GitHub.",
+      "url": "http://tallerjavautn.appspot.com/nosotros.jsp",
+      "endDate": "2013-04-30"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Sistema de gestión de una biblioteca.",
+      "startDate": "2013-03-31",
+      "summary": "Colaborador en un grupo de 4 alumnos en un proyecto de gestión de biblioteca. Utilizamos JBoss (framework de Java) + Hibernate para el back-end, y AngularJS + Bootstrap para el front-end.\n",
+      "endDate": "2013-10-31"
     }
-  ]
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }

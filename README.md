@@ -26,13 +26,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
         Comandos
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-licencia">
-        Licencia
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
    
 </div>
 
@@ -59,7 +52,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
+### 1. Usa este [repo](https://github.com/manumental32/cv-portfolio-astro) como _template_ de un proyecto de Astro
 
 
 - Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
@@ -69,8 +62,12 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 corepack enable
 corepack prepare pnpm@latest --activate
 
+# Si clonaste el repositorio solo tenes que instalar las dependencias con:
+pnpm install
+
+sino lo clonaste podes usar el template:
 # Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
+pnpm create astro@latest -- --template manumental32/cv-portfolio-astro
 ```
 
 ### 2. Añade tu contenido:
@@ -94,11 +91,6 @@ pnpm dev
 | ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
 | ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
 
-
-
-## 🔑 Licencia
-
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
 
 
 
